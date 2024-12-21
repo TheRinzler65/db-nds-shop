@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: Configure Git to trust the directory
-      run: git config --global --add safe.directory /__w/NDS-Shop-db/NDS-Shop-db
+      run: git config --global --add safe.directory /__w/db-nds-shop/db-nds-shop
 
     - name: Delete old pages and QRs
       run: rm -rf docs/_3ds/* docs/_ds/* docs/assets/images/qr/*.png
