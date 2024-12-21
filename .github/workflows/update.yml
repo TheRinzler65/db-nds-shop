@@ -23,7 +23,7 @@ jobs:
     - name: Run generate.py
       run: |
         export PATH=$PATH:/opt/devkitpro/tools/bin
-        python3 source/generate.py source/apps docs
+        python3 source/generate.py source/apps docs --token ${{ secrets.GITHUB_TOKEN }}
 
     - name: Pull origin
       run: git pull origin main --ff-only
