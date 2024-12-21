@@ -1,5 +1,5 @@
 # db-nds-shop
-> An Alternative Nintendo DS Shop for Nintendo 3DS family of systems.
+> An online database DS Shop for Nintendo 3DS family of systems
 
 
 ## Installation / Setup
