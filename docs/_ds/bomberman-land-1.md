@@ -6,8 +6,8 @@ color: '#435f75'
 color_bg: '#435f75'
 downloads:
   Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds:
-    size: 67108864
-    size_str: 64 MiB
+    size: 0
+    size_str: 0 Bytes
     url: https://drive.google.com/uc?export=download&id=1jMSp5SS5o9w6x4cBwcTn8SdmpbU9vzgP
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland1.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland1.png
