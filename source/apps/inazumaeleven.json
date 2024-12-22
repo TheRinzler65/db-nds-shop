@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Inazuma Eleven (France).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20%28France%29.nds"
+			"url": "https://db-nds-shop.fr/games/Inazuma%20Eleven%20%28France%29.nds"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20%28France%29.nds",
+                "file": "https://db-nds-shop.fr/games/Inazuma%20Eleven%20%28France%29.nds",
                 "output": "/roms/nds/Inazuma Eleven (France).nds"
             },
             {

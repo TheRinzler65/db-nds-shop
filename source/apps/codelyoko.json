@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Code Lyoko (Europe) (En,Fr,Es,It).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds"
+			"url": "https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds",
+                "file": "https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds",
                 "output": "/roms/nds/Code Lyoko (Europe) (En,Fr,Es,It).nds"
             },
             {

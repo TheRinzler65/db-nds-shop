@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"PokemonVersion Diamant (France) (Rev ).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds"
+			"url": "https://db-nds-shop.fr/games/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds"
 		}
 	},
 	"screenshots": [{
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds",
+				"file": "https://db-nds-shop.fr/games/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds",
 				"output": "/roms/nds/PokemonVersion Diamant (France) (Rev ).nds"
 			},
 			{

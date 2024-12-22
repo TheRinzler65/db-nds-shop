@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"PokemonVersion Blanche (France) (NDSi Enhanced).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds"
+			"url": "https://db-nds-shop.fr/games/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds"
 		}
 	},
 	"screenshots": [{
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds",
+				"file": "https://db-nds-shop.fr/games/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds",
 				"output": "/roms/nds/PokemonVersion Blanche (France) (NDSi Enhanced).nds"
 			},
 			{

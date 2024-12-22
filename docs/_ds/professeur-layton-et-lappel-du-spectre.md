@@ -6,7 +6,7 @@ color: '#9a6d4d'
 color_bg: '#805a40'
 downloads:
   Professeur Layton et l'Appel du Spectre (France).nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Professeur%20Layton%20et%20l%27Appel%20du%20Spectre%20%28France%29.nds
+    url: https://db-nds-shop.fr/games/Professeur%20Layton%20et%20l%27Appel%20du%20Spectre%20%28France%29.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/professeurlaytonetlappelduspectre.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/professeurlaytonetlappelduspectre.png
 image_length: 493

@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20LyokoFall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.nds"
+			"url": "https://db-nds-shop.fr/games/Code%20LyokoFall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.nds"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20LyokoFall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.nds",
+                "file": "https://db-nds-shop.fr/games/Code%20LyokoFall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.nds",
                 "output": "/roms/nds/Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds"
             },
             {

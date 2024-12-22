@@ -9,7 +9,7 @@
     ],
 "downloads": {
         "Picross D (Europe) (En,Fr,De,Es,It).nds": {
-            "url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Picross%20D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+            "url": "https://db-nds-shop.fr/games//Picross%20D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
         }
     },
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Picross%20D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "file": "https://db-nds-shop.fr/games/Picross%20D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
                 "output": "/roms/nds/Picross D (Europe) (En,Fr,De,Es,It).nds"
             },
             {

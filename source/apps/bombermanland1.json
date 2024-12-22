@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds": {
-			"url": "https://drive.google.com/uc?export=download&id=1jMSp5SS5o9w6x4cBwcTn8SdmpbU9vzgP"
+			"url": "https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds"
 		}
 	},
 	"screenshots": [{
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://drive.google.com/uc?export=download&id=1jMSp5SS5o9w6x4cBwcTn8SdmpbU9vzgP",
+				"file": "https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
 				"output": "/roms/nds/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds"
 			},
 			{

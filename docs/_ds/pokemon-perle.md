@@ -6,7 +6,7 @@ color: '#be768b'
 color_bg: '#804f5d'
 downloads:
   PokemonVersion Perle (France) (Rev ).nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Perle%20%28France%29%20%28Rev%20%29.nds
+    url: https://db-nds-shop.fr/games/PokemonVersion%20Perle%20%28France%29%20%28Rev%20%29.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonperle.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonperle.png
 image_length: 504

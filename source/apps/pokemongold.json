@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"PokemonVersion Or HeartGold (France) [b].nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Or%20HeartGold%20%28France%29%20%5Bb%5D.nds"
+			"url": "https://db-nds-shop.fr/games/PokemonVersion%20Or%20HeartGold%20%28France%29%20%5Bb%5D.nds"
 		}
 	},
 	"screenshots": [{
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Or%20HeartGold%20%28France%29%20%5Bb%5D.nds",
+				"file": "https://db-nds-shop.fr/games/PokemonVersion%20Or%20HeartGold%20%28France%29%20%5Bb%5D.nds",
 				"output": "/roms/nds/PokemonVersion Or HeartGold (France) [b].nds"
 			},
 			{

@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Dr Kawashima's Brain TrainingHow Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Dr%20Kawashima%27s%20Brain%20TrainingHow%20Old%20Is%20Your%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds"
+			"url": "https://db-nds-shop.fr/games/Dr%20Kawashima%27s%20Brain%20TrainingHow%20Old%20Is%20Your%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Dr%20Kawashima%27s%20Brain%20TrainingHow%20Old%20Is%20Your%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+                "file": "https://db-nds-shop.fr/games/Dr%20Kawashima%27s%20Brain%20TrainingHow%20Old%20Is%20Your%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
                 "output": "/roms/nds/Dr Kawashima's Brain TrainingHow Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds"
             }
         ]

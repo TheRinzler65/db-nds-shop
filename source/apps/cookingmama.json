@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Cooking Mama (Europe) (En,Fr,It).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds"
+			"url": "https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds",
+                "file": "https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds",
                 "output": "/roms/nds/Cooking Mama (Europe) (En,Fr,It).nds"
             },
             {

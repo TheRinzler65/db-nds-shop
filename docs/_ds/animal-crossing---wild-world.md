@@ -6,7 +6,7 @@ color: '#69bf6e'
 color_bg: '#468049'
 downloads:
   Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Welcome%20to%20Animal%20CrossingWild%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    url: https://db-nds-shop.fr/games/Welcome%20to%20Animal%20CrossingWild%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/animalcrossingwildworld.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/animalcrossingwildworld.png
 image_length: 471
