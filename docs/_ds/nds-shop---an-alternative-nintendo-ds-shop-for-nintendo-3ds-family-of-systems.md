@@ -20,5 +20,9 @@ systems:
 - DS
 title: NDS-Shop - An Alternative Nintendo DS Shop for Nintendo 3DS family of systems
 updated: '2024-12-22T13:30:50+02:00'
+<<<<<<< HEAD
 version: BÃªta
+=======
+version: Beta
+>>>>>>> 08d0f24 (test resolv bug unistore)
 ---
