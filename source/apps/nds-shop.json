@@ -10,7 +10,7 @@
 	],
 	"downloads": {
 		"NDS-Shop.cia": {
-			"url": "https://github.com/TheRinzler65/NDS-Shop/main/extras/NDS-Shop.cia"
+			"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/extras/NDS-Shop.cia"
 		}
 	},
 	"icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/app/icon.png",
@@ -20,7 +20,7 @@
 		"NDS-Shop.cia": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/blob/main/extras/NDS-Shop.cia",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/extras/NDS-Shop.cia",
 				"output": "/NDS-Shop.cia"
 			},
 			{
