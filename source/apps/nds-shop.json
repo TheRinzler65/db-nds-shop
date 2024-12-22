@@ -14,11 +14,7 @@
 		}
 	},
 	"icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/app/icon.png",
-<<<<<<< HEAD
-	"version": "Bêta",
-=======
 	"version": "Beta",
->>>>>>> 08d0f24 (test resolv bug unistore)
 	"updated": "2024-12-22T13:30:50+02:00",
 	"scripts": {
 		"NDS-Shop.cia": [

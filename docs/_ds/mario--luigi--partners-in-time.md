@@ -6,7 +6,7 @@ color: '#9a5d7c'
 color_bg: '#804d67'
 downloads:
   Mario & LuigiPartners in Time (Europe) (En,Fr,De,Es,It).nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20%26%20LuigiPartners%20in%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    url: https://db-nds-shop.fr/games/Mario%20%26%20LuigiPartners%20in%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario%26luigipartnersintime.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario%26luigipartnersintime.png
 image_length: 1274

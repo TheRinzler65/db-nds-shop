@@ -6,7 +6,7 @@ color: '#b5592c'
 color_bg: '#803f1f'
 downloads:
   Inazuma Eleven (France).nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20%28France%29.nds
+    url: https://db-nds-shop.fr/games/Inazuma%20Eleven%20%28France%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/inazumaeleven.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/inazumaeleven.png
 image_length: 823

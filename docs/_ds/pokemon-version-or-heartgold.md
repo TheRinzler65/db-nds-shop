@@ -6,7 +6,7 @@ color: '#e6b45c'
 color_bg: '#806433'
 downloads:
   PokemonVersion Or HeartGold (France) [b].nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Or%20HeartGold%20%28France%29%20%5Bb%5D.nds
+    url: https://db-nds-shop.fr/games/PokemonVersion%20Or%20HeartGold%20%28France%29%20%5Bb%5D.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemongold.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemongold.png
 image_length: 541
