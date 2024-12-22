@@ -8,7 +8,7 @@ description: Si l'application ne se met pas Ã  jour automatiquement, vous pouv
   tÃ©lÃ©charger directement ici
 downloads:
   NDS-Shop.cia:
-    url: https://github.com/TheRinzler65/NDS-Shop/blob/main/extras/NDS-Shop.cia
+    url: https://github.com/TheRinzler65/NDS-Shop/main/extras/NDS-Shop.cia
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/app/icon.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/app/icon.png
 image_length: 388
