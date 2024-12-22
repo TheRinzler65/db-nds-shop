@@ -6,7 +6,7 @@ color: '#63453f'
 color_bg: '#63453f'
 downloads:
   PokemonVersion Noire (France) (NDSi Enhanced).nds:
-    url: https://db-nds-shop.fr/games/PokemonVersion%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.nds
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonnoire.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonnoire.png
 image_length: 480

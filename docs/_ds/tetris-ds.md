@@ -6,7 +6,7 @@ color: '#3e6084'
 color_bg: '#3c5d80'
 downloads:
   Tetris DS (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Tetris%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Tetris%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/tetrisds.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/tetrisds.png
 image_length: 816

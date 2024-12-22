@@ -6,7 +6,7 @@ color: '#8b6743'
 color_bg: '#805e3d'
 downloads:
   Mario & LuigiBowser's Inside Story (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Mario%20%26%20LuigiBowser%27s%20Inside%20Story%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20%26%20LuigiBowser%27s%20Inside%20Story%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario%26luigibowsersinsidestory.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario%26luigibowsersinsidestory.png
 image_length: 1148

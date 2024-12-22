@@ -6,7 +6,7 @@ color: '#6c78a2'
 color_bg: '#555e80'
 downloads:
   Sonic Rush (Europe) (En,Ja,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/sonicrush.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/sonicrush.png
 image_length: 801

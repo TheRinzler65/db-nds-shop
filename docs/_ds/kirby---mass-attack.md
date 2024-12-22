@@ -6,7 +6,7 @@ color: '#ba829b'
 color_bg: '#80596a'
 downloads:
   KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/KirbyMass%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/KirbyMass%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/kirbymassattack.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/kirbymassattack.png
 image_length: 1019

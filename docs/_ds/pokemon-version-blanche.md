@@ -6,7 +6,7 @@ color: '#bd9b93'
 color_bg: '#806963'
 downloads:
   PokemonVersion Blanche (France) (NDSi Enhanced).nds:
-    url: https://db-nds-shop.fr/games/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonblanc.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonblanc.png
 image_length: 488
