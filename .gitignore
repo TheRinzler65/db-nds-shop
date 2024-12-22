@@ -2,7 +2,6 @@
 *__pycache__
 *.venv
 *_site
-exemple.json.txt
 config.ini
 *.sass-cache
 *.jekyll-cache

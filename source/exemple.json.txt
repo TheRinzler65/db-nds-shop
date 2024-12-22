@@ -1,0 +1,57 @@
+{
+	"title": "",
+	"author": "",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"downloads": {
+		"": {
+			"url": ""
+		}
+	},
+	"screenshots": [{
+		"url": "",
+		"description": "Game preview"
+		},{
+		"url": "",
+		"description": "Boxart"
+	}],
+	"icon": "",
+	"version": "",
+	"updated": "", // yy-mm-ddThh:mm:ss+02:00 (UTC + 2)
+	"scripts": {
+		"": [
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": ""
+			},
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": ""
+			},
+			{
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?", // Si vous voulez mettre un forwarder sur le menu Home
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": ""
+			},
+			{
+				"type": "installCia",
+				"file": ""
+			},
+			{
+				"type": "deleteFile",
+				"file": ""
+			}
+		]
+	}
+}
