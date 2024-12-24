@@ -4,7 +4,7 @@
 
 ## Installation / Setup
 
-You need this homebrew app : #
+You need this homebrew app (This is a temporary fork of Universal-Updater ) : [NDS-Shop](https://github.com/TheRinzler65/NDS-Shop)
 
 Or install the `.unistore` file and use it on Universal-Updater :
 
@@ -16,6 +16,5 @@ Or install the `.unistore` file and use it on Universal-Updater :
 
 - [Universal-Updater](https://github.com/Universal-Team/Universal-Updater): The Universal Team, who created this homebrew app called Universal-Updater.
 - [Universal-DB](https://github.com/Universal-Team/db): program to make UniStore file by Universal Team
-- [devkitPro](https://github.com/devkitPro): text3ds
 
 **Once again, a huge thank you for your work!**
