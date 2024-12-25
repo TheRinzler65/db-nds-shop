@@ -38,7 +38,7 @@
 				"type": "extractFile",
 				"file": "/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip",
 				"input": "",
-				"output": "/roms/nds/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).nds"
+				"output": "/roms/nds/"
 			},
             {
                 "type": "deleteFile",
