@@ -1,0 +1,57 @@
+{
+	"title": "Bomberman Land 1",
+	"author": "Rising Star Games",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"downloads": {
+		"Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds": {
+			"url": "https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds"
+		}
+	},
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland1.png",
+		"description": "Game Preview"
+		},{
+		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland1.png",
+	"version": "(Europe) (En,Fr,De,Es,It)",
+	"updated": "2024-08-18T22:25:00+02:00",
+	"scripts": {
+		"Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds.png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
+				"output": "/roms/nds/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds"
+			},
+			{
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
+				"output": "/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).cia"
+			}
+		]
+	}
+}

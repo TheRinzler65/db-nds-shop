@@ -1,0 +1,57 @@
+{
+    "title": "Mario Party DS",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "downloads": {
+		"Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds": {
+			"url": "https://db-nds-shop.fr/games/Mario%20Party%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%20%29.nds"
+		}
+	},
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/mariopartyds/mariopartyds.png",
+        "description": "Game preview"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mariopartyds.png",
+    "version": "(Europe) (En,Fr,De,Es,It)",
+    "updated": "2024-08-09T21:49:58+02:00",
+    "scripts": {
+        "Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://db-nds-shop.fr/games/Mario%20Party%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%20%29.nds",
+                "output": "/roms/nds/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds"
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).cia",
+				"output": "/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).cia"
+			}
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+	"title": "Pokemon Platine",
+	"author": "Nintendo / GameFreak",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"downloads": {
+		"PokemonVersion Platine (France) [b].nds": {
+			"url": "https://db-nds-shop.fr/games/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds"
+		}
+	},
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png",
+		"description": "Game Preview"
+		},{
+		"url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonplatine.png",
+	"version": "(France)",
+	"updated": "2024-08-10T16:26:00+02:00",
+	"scripts": {
+		"PokemonVersion Platine (France) [b].nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Platine (France) [b].nds.png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://db-nds-shop.fr/games/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds",
+				"output": "/roms/nds/PokemonVersion Platine (France) [b].nds"
+			},
+			{
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/PokemonVersion%20Platine%20(France)%20%5Bb%5D.cia",
+				"output": "/PokemonVersion Platine (France) [b].cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/PokemonVersion Platine (France) [b].cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/PokemonVersion Platine (France) [b].cia"
+			}
+		]
+	}
+}

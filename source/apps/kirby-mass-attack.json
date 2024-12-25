@@ -1,0 +1,57 @@
+{
+    "title": "Kirby - Mass Attack",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+"downloads": {
+        "KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds": {
+            "url": "https://db-nds-shop.fr/games/KirbyMass%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+        }
+    },
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/kirbymassattack/kirbymassattack.png",
+        "description": "Game preview"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/KirbyMass%20Attack%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/kirbymassattack.png",
+    "version": "(Europe) (En,Fr,De,Es,It)",
+    "updated": "2024-08-13T15:39:00+02:00",
+    "scripts": {
+        "KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/KirbyMass%20Attack%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://db-nds-shop.fr/games/KirbyMass%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds"
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/KirbyMass%20Attack%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
+				"output": "/KirbyMass Attack (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/KirbyMass Attack (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/KirbyMass Attack (Europe) (En,Fr,De,Es,It).cia"
+			}
+        ]
+    }
+} 

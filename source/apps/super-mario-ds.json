@@ -1,0 +1,57 @@
+{
+    "title": "Super Mario 64 DS",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "downloads": {
+        "Super MarioDS (Europe) (En,Fr,De,Es,It).nds": {
+            "url": "https://db-nds-shop.fr/games/Super%20MarioDS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+        }
+    },
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/supermario64ds/supermario64ds.png",
+        "description": "Game preview"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Super%20MarioDS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario64ds.png",
+    "version": "(Europe) (En,Fr,De,Es,It)",
+    "updated": "2024-08-12T00:31:58+02:00",
+    "scripts": {
+        "Super MarioDS (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Super%20MarioDS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Super MarioDS (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://db-nds-shop.fr/games/Super%20MarioDS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Super MarioDS (Europe) (En,Fr,De,Es,It).nds"
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Super%20MarioDS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
+				"output": "/Super MarioDS (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Super MarioDS (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Super MarioDS (Europe) (En,Fr,De,Es,It).cia"
+			}
+        ]
+    }
+} 

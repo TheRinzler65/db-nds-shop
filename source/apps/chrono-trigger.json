@@ -1,0 +1,57 @@
+{
+    "title": "Chrono Trigger",
+    "author": "Square Enix",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "downloads": {
+		"Chrono Trigger (Europe) (En,Fr).nds": {
+			"url": "https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).nds"
+		}
+	},
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/chronotrigger/chronotrigger.png",
+        "description": "Game preview"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Chrono%20Trigger%20(Europe)%20(En%2CFr).nds.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/chronotrigger.png",
+    "version": "(Europe) (En,Fr)",
+    "updated": "2024-08-10T19:42:58+02:00",
+    "scripts": {
+        "Chrono Trigger (Europe) (En,Fr).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Chrono%20Trigger%20(Europe)%20(En%2CFr).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Chrono Trigger (Europe) (En,Fr).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).nds",
+                "output": "/roms/nds/Chrono Trigger (Europe) (En,Fr).nds"
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Chrono%20Trigger%20(Europe)%20(En%2CFr).cia",
+				"output": "Chrono Trigger (Europe) (En,Fr).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Chrono Trigger (Europe) (En,Fr).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Chrono Trigger (Europe) (En,Fr).cia"
+			}
+        ]
+    }
+}
