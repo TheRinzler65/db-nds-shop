@@ -8,7 +8,7 @@
 		"DS"
 	],
 	"downloads": {
-		"PokemonVersion Blanche (France) (NDSi Enhanced).nds": {
+		"Pokemon - Version Blanche (France) (NDSi Enhanced).nds": {
 			"url": "https://db-nds-shop.fr/games/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds"
 		}
 	},
@@ -23,7 +23,7 @@
 	"version": "(France)",
 	"updated": "2024-08-10T16:40:00+02:00",
 	"scripts": {
-		"PokemonVersion Blanche (France) (NDSi Enhanced).nds": [
+		"Pokemon - Version Blanche (France) (NDSi Enhanced).nds": [
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).nds.png",
@@ -32,7 +32,7 @@
 			{
 				"type": "downloadFile",
 				"file": "https://db-nds-shop.fr/games/PokemonVersion%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.nds",
-				"output": "/roms/nds/PokemonVersion Blanche (France) (NDSi Enhanced).nds"
+				"output": "/roms/nds/Pokemon - Version Blanche (France) (NDSi Enhanced).nds"
 			},
 			{
 				"type": "promptMessage",
@@ -42,15 +42,15 @@
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).cia",
-				"output": "/PokemonVersion Blanche (France) (NDSi Enhanced).cia"
+				"output": "/Pokemon - Version Blanche (France) (NDSi Enhanced).cia"
 			},
 			{
 				"type": "installCia",
-				"file": "/PokemonVersion Blanche (France) (NDSi Enhanced).cia"
+				"file": "/Pokemon - Version Blanche (France) (NDSi Enhanced).cia"
 			},
 			{
 				"type": "deleteFile",
-				"file": "/PokemonVersion Blanche (France) (NDSi Enhanced).cia"
+				"file": "/Pokemon - Version Blanche (France) (NDSi Enhanced).cia"
 			}
 		]
 	}

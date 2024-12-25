@@ -8,7 +8,7 @@
 		"DS"
 	],
 	"downloads": {
-		"PokemonVersion Noire (France) (NDSi Enhanced).nds": {
+		"Pokemon - Version Noire (France) (NDSi Enhanced).nds": {
 			"url": "https://db-nds-shop.fr/games/PokemonVersion%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.nds"
 		}
 	},
@@ -23,7 +23,7 @@
 	"version": "(France)",
 	"updated": "2024-08-10T16:54:00+02:00",
 	"scripts": {
-		"PokemonVersion Noire (France) (NDSi Enhanced).nds": [
+		"Pokemon - Version Noire (France) (NDSi Enhanced).nds": [
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Noire%20(France)%20(NDSi%20Enhanced).nds.png",
@@ -42,15 +42,15 @@
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/PokemonVersion%20Noire%20(France)%20(NDSi%20Enhanced).cia",
-				"output": "/PokemonVersion Noire (France) (NDSi Enhanced).cia"
+				"output": "/Pokemon - Version Noire (France) (NDSi Enhanced).cia"
 			},
 			{
 				"type": "installCia",
-				"file": "/PokemonVersion Noire (France) (NDSi Enhanced).cia"
+				"file": "/Pokemon - Version Noire (France) (NDSi Enhanced).cia"
 			},
 			{
 				"type": "deleteFile",
-				"file": "/PokemonVersion Noire (France) (NDSi Enhanced).cia"
+				"file": "/Pokemon - Version Noire (France) (NDSi Enhanced).cia"
 			}
 		]
 	}
