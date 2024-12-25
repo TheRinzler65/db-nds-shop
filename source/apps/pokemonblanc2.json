@@ -7,6 +7,11 @@
 	"systems": [
 		"DS"
 	],
+	"downloads": {
+		"PokemonVersion Blanche (France) (NDSi Enhanced).nds": {
+			"url": "https://db-nds-shop.fr/games/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
+		}
+	},
 	"screenshots": [{
 		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemonblanc2/pokemonblanc2.png",
 		"description": "Game Preview"
@@ -26,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip",
+				"file": "https://db-nds-shop.fr/games/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip",
 				"output": "/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
 			},
             {
