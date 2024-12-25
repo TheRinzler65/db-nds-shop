@@ -6,8 +6,6 @@ color: '#58aaad'
 color_bg: '#417d80'
 downloads:
   Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds:
-    size: 67108864
-    size_str: 64 MiB
     url: https://github.com/TheRinzler65/db-nds-shop/raw/main/roms/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland2.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland2.png
