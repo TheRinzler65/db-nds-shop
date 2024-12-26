@@ -6,7 +6,9 @@ color: '#ba829b'
 color_bg: '#80596a'
 downloads:
   Kirby Mass Attack (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Kirby%20Mass%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    size: 23470576
+    size_str: 22 MiB
+    url: https://db-nds-shop.fr/games/Kirby%20Mass%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/kirbymassattack.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/kirbymassattack.png
 image_length: 1019
@@ -17,7 +19,7 @@ screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/kirbymassattack/kirbymassattack.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/KirbyMass%20Attack%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Kirby%20Mass%20Attack%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

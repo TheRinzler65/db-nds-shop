@@ -6,7 +6,9 @@ color: '#8e6d8f'
 color_bg: '#7f6180'
 downloads:
   Mario & Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Mario%20%26%20Sonic%20at%20the%20Olympic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    size: 101050934
+    size_str: 96 MiB
+    url: https://db-nds-shop.fr/games/Mario%20%26%20Sonic%20at%20the%20Olympic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario%26sonicolympicgames.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/mario%26sonicolympicgames.png
 image_length: 1172

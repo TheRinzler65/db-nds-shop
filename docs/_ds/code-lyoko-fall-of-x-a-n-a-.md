@@ -19,7 +19,7 @@ screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/codelyokoxana/codelyokoxana.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Code%20LyokoFall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).nds.png
 stars: 0
 systems:
 - DS

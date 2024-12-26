@@ -9,7 +9,7 @@
     ],
 "downloads": {
         "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds": {
-            "url": "https://db-nds-shop.fr/games/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+            "url": "https://db-nds-shop.fr/games/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
         }
     },
     "screenshots": [{
@@ -31,8 +31,18 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://db-nds-shop.fr/games/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
-                "output": "/roms/nds/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds"
+                "file": "https://db-nds-shop.fr/games/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+                "output": "/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).zip"
+            },
+            {
+				"type": "extractFile",
+				"file": "/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).zip"
             },
             {
 				"type": "promptMessage",

@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Code Lyoko (Europe) (En,Fr,Es,It).nds": {
-			"url": "https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds"
+			"url": "https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.zip"
 		}
 	},
     "screenshots": [{
@@ -31,8 +31,18 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds",
-                "output": "/roms/nds/Code Lyoko (Europe) (En,Fr,Es,It).nds"
+                "file": "https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.zip",
+                "output": "/Code Lyoko (Europe) (En,Fr,Es,It).zip"
+            },
+            {
+				"type": "extractFile",
+				"file": "/Code Lyoko (Europe) (En,Fr,Es,It).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Code Lyoko (Europe) (En,Fr,Es,It).zip"
             },
             {
 				"type": "promptMessage",

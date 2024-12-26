@@ -6,7 +6,9 @@ color: '#9cadca'
 color_bg: '#626d80'
 downloads:
   Pokemon - Version Argent SoulSilver (France) [b].nds:
-    url: https://db-nds-shop.fr/games/Pokemon%20-%20Version%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.nds
+    size: 60640344
+    size_str: 57 MiB
+    url: https://db-nds-shop.fr/games/Pokemon%20-%20Version%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.zip
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonargent.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonargent.png
 image_length: 552

@@ -6,7 +6,9 @@ color: '#9b3e3a'
 color_bg: '#803330'
 downloads:
   Pokemon Ranger (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Pokemon%20Ranger%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    size: 16606201
+    size_str: 15 MiB
+    url: https://db-nds-shop.fr/games/Pokemon%20Ranger%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonranger.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonranger.png
 image_length: 611

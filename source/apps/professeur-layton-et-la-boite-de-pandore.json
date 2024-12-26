@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Professeur Layton et la Boite de Pandore (France) [b].nds": {
-			"url": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29%20%5Bb%5D.nds"
+			"url": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29%20%5Bb%5D.zip"
 		}
 	},
 	"screenshots": [{
@@ -31,9 +31,19 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29%20%5Bb%5D.nds",
-				"output": "/roms/nds/Professeur Layton et la Boite de Pandore (France) [b].nds"
+				"file": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29%20%5Bb%5D.zip",
+				"output": "/Professeur Layton et la Boite de Pandore (France) [b].zip"
 			},
+			{
+				"type": "extractFile",
+				"file": "/Professeur Layton et la Boite de Pandore (France) [b].zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Professeur Layton et la Boite de Pandore (France) [b].zip"
+            },
 			{
 				"type": "promptMessage",
 				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",

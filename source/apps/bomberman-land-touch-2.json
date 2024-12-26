@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds": {
-			"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/roms/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds"
+			"url": "https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).zip"
 		}
 	},
 	"screenshots": [{
@@ -31,9 +31,19 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/roms/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
-				"output": "/roms/nds/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds"
+				"file": "https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).zip",
+				"output": "/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).zip"
 			},
+			{
+				"type": "extractFile",
+				"file": "/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).zip"
+            },
 			{
 				"type": "promptMessage",
 				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",

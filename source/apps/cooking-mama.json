@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Cooking Mama (Europe) (En,Fr,It).nds": {
-			"url": "https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds"
+			"url": "https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.zip"
 		}
 	},
     "screenshots": [{
@@ -31,8 +31,18 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds",
-                "output": "/roms/nds/Cooking Mama (Europe) (En,Fr,It).nds"
+                "file": "https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.zip",
+                "output": "/Cooking Mama (Europe) (En,Fr,It).zip"
+            },
+            {
+				"type": "extractFile",
+				"file": "/Cooking Mama (Europe) (En,Fr,It).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Cooking Mama (Europe) (En,Fr,It).zip"
             },
             {
 				"type": "promptMessage",

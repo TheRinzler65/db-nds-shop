@@ -9,7 +9,7 @@
     ],
 "downloads": {
         "Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds": {
-            "url": "https://db-nds-shop.fr/games/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+            "url": "https://db-nds-shop.fr/games/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
         }
     },
     "screenshots": [{
@@ -31,8 +31,18 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://db-nds-shop.fr/games/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
-                "output": "/roms/nds/Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds"
+                "file": "https://db-nds-shop.fr/games/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+                "output": "/Yoshi's Island DS (Europe) (En,Fr,De,Es,It).zip"
+            },
+            {
+				"type": "extractFile",
+				"file": "/Yoshi's Island DS (Europe) (En,Fr,De,Es,It).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Yoshi's Island DS (Europe) (En,Fr,De,Es,It).zip"
             },
             {
 				"type": "promptMessage",

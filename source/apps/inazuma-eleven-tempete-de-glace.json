@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Inazuma Eleven 2 - Tempete de Glace (France) (France).nds": {
-			"url": "https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.nds"
+			"url": "https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.zip"
 		}
 	},
 	"screenshots": [{
@@ -28,9 +28,19 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.nds",
-				"output": "/roms/nds/Inazuma Eleven 2 - Tempete de Glace (France) (France).nds"
+				"file": "https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.zip",
+				"output": "/Inazuma Eleven 2 - Tempete de Glace (France) (France).zip"
 			},
+			{
+				"type": "extractFile",
+				"file": "/Inazuma Eleven 2 - Tempete de Glace (France) (France).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Inazuma Eleven 2 - Tempete de Glace (France) (France).zip"
+            },
 			{
 				"type": "promptMessage",
 				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",

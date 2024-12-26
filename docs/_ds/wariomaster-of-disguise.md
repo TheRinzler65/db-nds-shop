@@ -6,7 +6,9 @@ color: '#90675a'
 color_bg: '#805b50'
 downloads:
   Wario Master of Disguise (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/WarioMaster%20of%20Disguise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    size: 42827709
+    size_str: 40 MiB
+    url: https://db-nds-shop.fr/games/Wario%20Master%20of%20Disguise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
 image_length: 847
@@ -17,7 +19,7 @@ screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/wariomasterofdisguise/wariomasterofdisguise.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/WarioMaster%20of%20Disguise%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Wario%20Master%20of%20Disguise%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

@@ -6,7 +6,9 @@ color: '#87533d'
 color_bg: '#804e3a'
 downloads:
   Chrono Trigger (Europe) (En,Fr).nds:
-    url: https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).nds
+    size: 63483465
+    size_str: 60 MiB
+    url: https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).zip
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/chronotrigger.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/chronotrigger.png
 image_length: 1109

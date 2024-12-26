@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds": {
-			"url": "https://db-nds-shop.fr/games/Sonic%20Colours%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds"
+			"url": "https://db-nds-shop.fr/games/Sonic%20Colours%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip"
 		}
 	},
     "screenshots": [{
@@ -31,8 +31,18 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://db-nds-shop.fr/games/Sonic%20Colours%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds",
-                "output": "/roms/nds/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds"
+                "file": "https://db-nds-shop.fr/games/Sonic%20Colours%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip",
+                "output": "/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).zip"
+            },
+            {
+				"type": "extractFile",
+				"file": "/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).zip"
             },
             {
 				"type": "promptMessage",

@@ -17,7 +17,7 @@ qr:
   Beyblade Metal Fusion Cyber Pegasus (Europe) [b].nds: https://db-nds-shop.fr/assets/images/qr/beyblade-metal-fusion-cyber-pegasus-europe-b-nds.png
 screenshots:
 - description: Boxart
-  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20-%20Cyber%20Pegasus%20(Europe).nds.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe).nds.png
 stars: 0
 systems:
 - DS

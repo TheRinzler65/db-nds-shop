@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Professeur Layton et le Destin Perdu (France).nds": {
-			"url": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.nds"
+			"url": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.zip"
 		}
 	},
 	"screenshots": [{
@@ -31,9 +31,19 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.nds",
-				"output": "/roms/nds/Professeur Layton et le Destin Perdu (France).nds"
+				"file": "https://db-nds-shop.fr/games/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.zip",
+				"output": "/Professeur Layton et le Destin Perdu (France).zip"
 			},
+			{
+				"type": "extractFile",
+				"file": "/Professeur Layton et le Destin Perdu (France).zip",
+				"input": "",
+				"output": "/roms/nds/"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Professeur Layton et le Destin Perdu (France).zip"
+            },
 			{
 				"type": "promptMessage",
 				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
