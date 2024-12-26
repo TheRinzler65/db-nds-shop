@@ -5,14 +5,14 @@ categories:
 color: '#a7795b'
 color_bg: '#805c45'
 downloads:
-  NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/NintendogsDachshund%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+  Nintendogs Dachshund & Friends (Europe) (En,Fr,De,Es,It).nds:
+    url: https://db-nds-shop.fr/games/Nintendogs%20Dachshund%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/nintendogsdaschund.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/nintendogsdaschund.png
 image_length: 966
 layout: app
 qr:
-  NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/nintendogsdachshund--friends-europe-enfrdeesit-nds.png
+  Nintendogs Dachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/nintendogs-dachshund--friends-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/nintendogsdaschund/nintendogsdaschung.png

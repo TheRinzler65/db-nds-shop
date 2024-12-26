@@ -5,14 +5,14 @@ categories:
 color: '#4d3c91'
 color_bg: '#443580'
 downloads:
-  Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds:
-    url: https://db-nds-shop.fr/games/Michael%20JacksonThe%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+  Michael Jackson The Experience (Europe) (En,Fr,De,Es,It).nds:
+    url: https://db-nds-shop.fr/games/Michael%20Jackson%20The%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/michaeljackson.png
 image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/michaeljackson.png
 image_length: 646
 layout: app
 qr:
-  Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/michael-jacksonthe-experience-europe-enfrdeesit-nds.png
+  Michael Jackson The Experience (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/michael-jackson-the-experience-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/michaeljackson/michaeljackson.png

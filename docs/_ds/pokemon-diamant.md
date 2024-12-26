@@ -5,14 +5,14 @@ categories:
 color: '#52708e'
 color_bg: '#4a6580'
 downloads:
-  PokemonVersion Diamant (France) (Rev ).nds:
+  Pokemon - Version Diamant (France) (Rev ).nds:
     url: https://db-nds-shop.fr/games/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image_length: 502
 layout: app
 qr:
-  PokemonVersion Diamant (France) (Rev ).nds: https://db-nds-shop.fr/assets/images/qr/pokemonversion-diamant-france-rev--nds.png
+  Pokemon - Version Diamant (France) (Rev ).nds: https://db-nds-shop.fr/assets/images/qr/pokemon---version-diamant-france-rev--nds.png
 screenshots:
 - description: Game preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png
