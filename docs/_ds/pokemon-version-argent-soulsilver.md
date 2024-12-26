@@ -5,14 +5,14 @@ categories:
 color: '#9cadca'
 color_bg: '#626d80'
 downloads:
-  PokemonVersion Argent SoulSilver (France) [b].nds:
-    url: https://db-nds-shop.fr/games/PokemonVersion%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.nds
+  Pokemon - Version Argent SoulSilver (France) [b].nds:
+    url: https://db-nds-shop.fr/games/Pokemon%20-%20Version%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.nds
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonargent.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonargent.png
 image_length: 552
 layout: app
 qr:
-  PokemonVersion Argent SoulSilver (France) [b].nds: https://db-nds-shop.fr/assets/images/qr/pokemonversion-argent-soulsilver-france-b-nds.png
+  Pokemon - Version Argent SoulSilver (France) [b].nds: https://db-nds-shop.fr/assets/images/qr/pokemon---version-argent-soulsilver-france-b-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemonargent/pokemonargent.png

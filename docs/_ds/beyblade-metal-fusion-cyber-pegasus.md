@@ -5,14 +5,16 @@ categories:
 color: '#738278'
 color_bg: '#718076'
 downloads:
-  Beyblade Metal FusionCyber Pegasus (Europe) [b].nds:
-    url: https://db-nds-shop.fr/games/Beyblade%20Metal%20FusionCyber%20Pegasus%20%28Europe%29%20%5Bb%5D.nds
+  Beyblade Metal Fusion Cyber Pegasus (Europe) [b].nds:
+    size: 64953503
+    size_str: 61 MiB
+    url: https://db-nds-shop.fr/games/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20%28Europe%29%20%5Bb%5D.zip
 icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/beyblademetalfusioncyberpegasus.png
 image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/beyblademetalfusioncyberpegasus.png
 image_length: 1069
 layout: app
 qr:
-  Beyblade Metal FusionCyber Pegasus (Europe) [b].nds: https://db-nds-shop.fr/assets/images/qr/beyblade-metal-fusioncyber-pegasus-europe-b-nds.png
+  Beyblade Metal Fusion Cyber Pegasus (Europe) [b].nds: https://db-nds-shop.fr/assets/images/qr/beyblade-metal-fusion-cyber-pegasus-europe-b-nds.png
 screenshots:
 - description: Boxart
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20-%20Cyber%20Pegasus%20(Europe).nds.png
