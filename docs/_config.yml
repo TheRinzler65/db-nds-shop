@@ -2,7 +2,7 @@
 title       : "NDS-Shop"
 description : "NDS-Shop - An online database DS Shop for Nintendo 3DS family of systems"
 repo        : "TheRinzler65/db-nds-shop"
-color       : "#1d8056"
+color       : "#2fbff4"
 image       : "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/nds-shop-_logo.png"
 
 sass:
