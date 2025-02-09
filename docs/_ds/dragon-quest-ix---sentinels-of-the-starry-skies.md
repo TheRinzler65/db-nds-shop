@@ -5,21 +5,21 @@ categories:
 color: '#6f8c94'
 color_bg: '#607980'
 downloads:
-  Dragon Quest IX Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It).nds:
-    size: 182923137
+  Dragon Quest IX Sentinels of the Starry Skies.nds:
+    size: 182923085
     size_str: 174 MiB
-    url: https://db-nds-shop.fr/games/Dragon%20Quest%20IX%20Sentinels%20of%20the%20Starry%20Skies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
-icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/dragonquestix.png
-image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/dragonquestix.png
+    url: https://db-nds-shop.fr/games/Dragon%20Quest%20IX%20Sentinels%20of%20the%20Starry%20Skies.zip
+icon: https://db-nds-shop.fr/assets/images/icons/dragonquestix.png
+image: https://db-nds-shop.fr/assets/images/icons/dragonquestix.png
 image_length: 898
 layout: app
 qr:
-  Dragon Quest IX Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/dragon-quest-ix-sentinels-of-the-starry-skies-europe-enfrdeesit-nds.png
+  Dragon Quest IX Sentinels of the Starry Skies.nds: https://db-nds-shop.fr/qr/dragon-quest-ix-sentinels-of-the-starry-skies-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/dragonquestix/dragonquestix.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/dragonquestix/dragonquestix.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Dragon%20Quest%20IXSentinels%20of%20the%20Starry%20Skies%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Dragon%20Quest%20IXSentinels%20of%20the%20Starry%20Skies.nds.png
 stars: 0
 systems:
 - DS

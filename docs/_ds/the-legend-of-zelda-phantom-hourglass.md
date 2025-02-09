@@ -5,21 +5,21 @@ categories:
 color: '#beab49'
 color_bg: '#807331'
 downloads:
-  Legend of Zelda, The Phantom Hourglass (Europe) (En,Fr,De,Es,It).nds:
-    size: 52961731
+  Legend of Zelda, The Phantom Hourglass.nds:
+    size: 52961679
     size_str: 50 MiB
-    url: https://db-nds-shop.fr/games/Legend%20of%20Zelda%2C%20The%20Phantom%20Hourglass%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
-icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/zeldaphantom.png
-image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/zeldaphantom.png
+    url: https://db-nds-shop.fr/games/Legend%20of%20Zelda%2C%20The%20Phantom%20Hourglass.zip
+icon: https://db-nds-shop.fr/assets/images/icons/zeldaphantom.png
+image: https://db-nds-shop.fr/assets/images/icons/zeldaphantom.png
 image_length: 709
 layout: app
 qr:
-  Legend of Zelda, The Phantom Hourglass (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/legend-of-zelda-the-phantom-hourglass-europe-enfrdeesit-nds.png
+  Legend of Zelda, The Phantom Hourglass.nds: https://db-nds-shop.fr/qr/legend-of-zelda-the-phantom-hourglass-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/zeldaphantom/zeldaphantom.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/zeldaphantom/zeldaphantom.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Legend%20of%20Zelda%2C%20The%20Phantom%20Hourglass%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Legend%20of%20Zelda%2C%20The%20Phantom%20Hourglass.nds.png
 stars: 0
 systems:
 - DS

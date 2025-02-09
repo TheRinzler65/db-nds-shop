@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/professeurlaytonetlappelduspectre/professeurlaytonetlappelduspectre.png",
+		"url": "https://db-nds-shop.fr/assets/images/screenshots/professeurlaytonetlappelduspectre/professeurlaytonetlappelduspectre.png",
 		"description": "Game preview"
 		},{
-		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
+		"url": "https://db-nds-shop.fr/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/professeurlaytonetlappelduspectre.png",
+	"icon": "https://db-nds-shop.fr/assets/images/icons/professeurlaytonetlappelduspectre.png",
 	"version": "(France)",
 	"updated": "2024-08-10T01:12:00+02:00",
 	"scripts": {
 		"Professeur Layton et l'Appel du Spectre (France).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
+				"file": "https://db-nds-shop.fr/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/professeurlaytonetlappelduspectre.nds.png"
 			},
 			{
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).cia",
 				"output": "/Professeur Layton et l'Appel du Spectre (France).cia"
 			},
 			{

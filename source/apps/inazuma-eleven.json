@@ -13,20 +13,20 @@
 		}
 	},
     "screenshots": [{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/inazumaeleven/inazumaeleven.png",
+        "url": "https://db-nds-shop.fr/assets/images/screenshots/inazumaeleven/inazumaeleven.png",
         "description": "Game preview"
         },{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png",
+        "url": "https://db-nds-shop.fr/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png",
         "description": "Boxart"
     }],
-    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/inazumaeleven.png",
+    "icon": "https://db-nds-shop.fr/assets/images/icons/inazumaeleven.png",
     "version": "(France)",
     "updated": "2024-08-10T19:55:58+02:00",
     "scripts": {
         "Inazuma Eleven (France).nds": [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png",
+                "file": "https://db-nds-shop.fr/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Inazuma Eleven (France).nds.png"
             },
             {
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Inazuma%20Eleven%20(France).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Inazuma%20Eleven%20(France).cia",
 				"output": "/Inazuma Eleven (France).cia"
 			},
 			{

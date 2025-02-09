@@ -179,12 +179,12 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 	header = {"Authorization": f"token {ghToken}"} if ghToken else None
 	unistore = UniStore(
 		"db-nds-shop",
-		"TheRinzler65",
-		"db-nds-shop - An online database of DS games in Universal-Updater",
-		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop.unistore",
-		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop.t3x",
-		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop.tdx",
-		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop-info.json"
+		"Rinzler",
+		"db-nds-shop - An online database of DS games in NDS-Shop",
+		"https://db-nds-shop.fr/unistore/db-nds-shop.unistore",
+		"https://db-nds-shop.fr/unistore/db-nds-shop.t3x",
+		"https://db-nds-shop.fr/unistore/db-nds-shop.tdx",
+		"https://db-nds-shop.fr/unistore/db-nds-shop.json"
 	)
 
 	# Fetch info for GitHub apps and output
@@ -688,7 +688,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 						qr.save(path.join(docsDir, "assets", "images", "qr", f"{webName(item)}.png"))
 						if "qr" not in app:
 							app["qr"] = {}
-						app["qr"][item] = f"https://db-nds-shop.fr/assets/images/qr/{webName(item)}.png"
+						app["qr"][item] = f"https://db-nds-shop.fr/qr/{webName(item)}.png"
 
 			if "prerelease" in app:
 				for item in app["prerelease"]["downloads"]:
@@ -713,7 +713,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 						qr.save(path.join(docsDir, "assets", "images", "qr", "prerelease", f"{webName(item)}.png"))
 						if "qr" not in app["prerelease"]:
 							app["prerelease"]["qr"] = {}
-						app["prerelease"]["qr"][item] = f"https://db-nds-shop.fr/assets/images/qr/prerelease/{webName(item)}.png"
+						app["prerelease"]["qr"][item] = f"https://db-nds-shop.fr/qr/prerelease/{webName(item)}.png"
 
 			if "nightly" in app:
 				for item in app["nightly"]["downloads"]:

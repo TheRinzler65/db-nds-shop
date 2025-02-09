@@ -9,17 +9,17 @@ downloads:
     size: 26003287
     size_str: 24 MiB
     url: https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).zip
-icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland2.png
-image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland2.png
+icon: https://db-nds-shop.fr/assets/images/icons/bombermanland2.png
+image: https://db-nds-shop.fr/assets/images/icons/bombermanland2.png
 image_length: 714
 layout: app
 qr:
-  Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/bomberman-land-touch-2-europe-enfrdeesit-nds.png
+  Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/bomberman-land-touch-2-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game Preview
-  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/bombermanland2/bombermanland2.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/bombermanland2/bombermanland2.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

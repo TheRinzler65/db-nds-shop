@@ -9,15 +9,15 @@ downloads:
     size: 205802952
     size_str: 196 MiB
     url: https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.zip
-icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/inazumaeleventempetedeglace.png
-image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/inazumaeleventempetedeglace.png
+icon: https://db-nds-shop.fr/assets/images/icons/inazumaeleventempetedeglace.png
+image: https://db-nds-shop.fr/assets/images/icons/inazumaeleventempetedeglace.png
 image_length: 822
 layout: app
 qr:
-  Inazuma Eleven 2 - Tempete de Glace (France) (France).nds: https://db-nds-shop.fr/assets/images/qr/inazuma-eleven-2---tempete-de-glace-france-france-nds.png
+  Inazuma Eleven 2 - Tempete de Glace (France) (France).nds: https://db-nds-shop.fr/qr/inazuma-eleven-2---tempete-de-glace-france-france-nds.png
 screenshots:
 - description: Boxart
-  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Glace%20(France).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Glace%20(France).nds.png
 stars: 0
 systems:
 - DS

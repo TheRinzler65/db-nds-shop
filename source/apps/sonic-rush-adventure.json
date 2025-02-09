@@ -13,20 +13,20 @@
         }
     },
     "screenshots": [{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/sonicrushadventure/sonicrushadventure.png",
+        "url": "https://db-nds-shop.fr/assets/images/screenshots/sonicrushadventure/sonicrushadventure.png",
         "description": "Game preview"
         },{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
+        "url": "https://db-nds-shop.fr/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
         "description": "Boxart"
     }],
-    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/sonicrushadventure.png",
+    "icon": "https://db-nds-shop.fr/assets/images/icons/sonicrushadventure.png",
     "version": "(Europe) (En,Ja,Fr,De,Es,It) (Rev )",
     "updated": "2024-08-12T18:01:58+02:00",
     "scripts": {
         "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds": [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
+                "file": "https://db-nds-shop.fr/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds.png"
             },
             {
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).cia",
 				"output": "/Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).cia"
 			},
 			{

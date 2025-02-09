@@ -13,17 +13,17 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe).nds.png",
+		"url": "https://db-nds-shop.fr/assets/images/boxart/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/beyblademetalfusioncyberpegasus.png",
-	"version": "",
-	"updated": "2024-08-22T19:01:00+02:00",
+	"icon": "https://db-nds-shop.fr/assets/images/icons/beyblademetalfusioncyberpegasus.png",
+	"version": "(Europe)",
+	"updated": "2024-08-22T18:01:00+02:00",
 	"scripts": {
 		"Beyblade Metal Fusion Cyber Pegasus (Europe) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe).nds.png",
+				"file": "https://db-nds-shop.fr/assets/images/boxart/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Beyblade Metal Fusion Cyber Pegasus (Europe) [b].nds.png"
 			},
 			{
@@ -48,7 +48,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe)%20%5Bb%5D.cia",
+				"file": "https://db-nds-shop.fr/forwarder/Beyblade%20Metal%20Fusion%20Cyber%20Pegasus%20(Europe)%20%5Bb%5D.cia",
 				"output": "/Beyblade Metal Fusion Cyber Pegasus (Europe) [b].cia"
 			},
 			{

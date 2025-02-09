@@ -13,20 +13,20 @@
 		}
 	},
     "screenshots": [{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/soniccolours/soniccolours.png",
+        "url": "https://db-nds-shop.fr/assets/images/screenshots/soniccolours/soniccolours.png",
         "description": "Game preview"
         },{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Sonic%20Colours%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "url": "https://db-nds-shop.fr/assets/images/boxart/Sonic%20Colours%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
         "description": "Boxart"
     }],
-    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/soniccolours.png",
+    "icon": "https://db-nds-shop.fr/assets/images/icons/soniccolours.png",
     "version": "(Europe) (En,Ja,Fr,De,Es,It)",
     "updated": "2024-08-10T14:53:00+02:00",
     "scripts": {
         "Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Sonic%20Colours%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "file": "https://db-nds-shop.fr/assets/images/boxart/Sonic%20Colours%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds.png"
             },
             {
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Sonic%20Colours%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Sonic%20Colours%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).cia",
 				"output": "/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).cia"
 			},
 			{

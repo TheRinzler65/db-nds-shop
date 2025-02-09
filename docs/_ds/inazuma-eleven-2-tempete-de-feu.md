@@ -9,15 +9,15 @@ downloads:
     size: 205907569
     size_str: 196 MiB
     url: https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Feu%20%28France%29.zip
-icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png
-image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png
+icon: https://db-nds-shop.fr/assets/images/icons/inazumaeleventempetedefeu.png
+image: https://db-nds-shop.fr/assets/images/icons/inazumaeleventempetedefeu.png
 image_length: 791
 layout: app
 qr:
-  Inazuma Eleven 2 - Tempete de Feu (France) (France).nds: https://db-nds-shop.fr/assets/images/qr/inazuma-eleven-2---tempete-de-feu-france-france-nds.png
+  Inazuma Eleven 2 - Tempete de Feu (France) (France).nds: https://db-nds-shop.fr/qr/inazuma-eleven-2---tempete-de-feu-france-france-nds.png
 screenshots:
 - description: Boxart
-  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png
 stars: 0
 systems:
 - DS

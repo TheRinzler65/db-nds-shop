@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/professeurlaytonetlaboitedepandore/professeurlaytonetlaboitedepandore.png",
+		"url": "https://db-nds-shop.fr/assets/images/screenshots/professeurlaytonetlaboitedepandore/professeurlaytonetlaboitedepandore.png",
 		"description": "Game preview"
 		},{
-		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.nds.png",
+		"url": "https://db-nds-shop.fr/assets/images/boxart/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/professeurlaytonetlaboitedepandore.png",
+	"icon": "https://db-nds-shop.fr/assets/images/icons/professeurlaytonetlaboitedepandore.png",
 	"version": "(France)",
 	"updated": "2024-08-10T01:26:00+02:00",
 	"scripts": {
 		"Professeur Layton et la Boite de Pandore (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.nds.png",
+				"file": "https://db-nds-shop.fr/assets/images/boxart/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/professeurlaytonetlaboitedepandore.nds.png"
 			},
 			{
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.cia",
+				"file": "https://db-nds-shop.fr/forwarder/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.cia",
 				"output": "/Professeur Layton et la Boite de Pandore (France) [b].cia"
 			},
 			{

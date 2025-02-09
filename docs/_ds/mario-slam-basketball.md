@@ -9,17 +9,17 @@ downloads:
     size: 41808644
     size_str: 39 MiB
     url: https://db-nds-shop.fr/games/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip
-icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/marioslambasketball.png
-image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/marioslambasketball.png
+icon: https://db-nds-shop.fr/assets/images/icons/marioslambasketball.png
+image: https://db-nds-shop.fr/assets/images/icons/marioslambasketball.png
 image_length: 497
 layout: app
 qr:
-  Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/mario-slam-basketball-europe-enjafrdeesit-nds.png
+  Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/mario-slam-basketball-europe-enjafrdeesit-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/marioslambasketball/marioslambasketball.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/marioslambasketball/marioslambasketball.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Mario%20Slam%20Basketball%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Mario%20Slam%20Basketball%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

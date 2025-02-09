@@ -13,20 +13,20 @@
 		}
 	},
     "screenshots": [{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/codelyokoxana/codelyokoxana.png",
+        "url": "https://db-nds-shop.fr/assets/images/screenshots/codelyokoxana/codelyokoxana.png",
         "description": "Game preview"
         },{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).nds.png",
+        "url": "https://db-nds-shop.fr/assets/images/boxart/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).nds.png",
         "description": "Boxart"
     }],
-    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/codelyokoxana.png",
+    "icon": "https://db-nds-shop.fr/assets/images/icons/codelyokoxana.png",
     "version": "(Europe) (En,Fr)",
     "updated": "2024-08-10T22:37:58+02:00",
     "scripts": {
         "Code Lyoko Fall of X.A.N.A. (Europe) (En,Fr).nds": [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).nds.png",
+                "file": "https://db-nds-shop.fr/assets/images/boxart/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Code Lyoko Fall of X.A.N.A. (Europe) (En,Fr).nds.png"
             },
             {
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Code%20Lyoko%20Fall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).cia",
 				"output": "/Code Lyoko Fall of X.A.N.A. (Europe) (En,Fr).cia"
 			},
 			{

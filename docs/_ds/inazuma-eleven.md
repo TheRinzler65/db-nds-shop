@@ -9,17 +9,17 @@ downloads:
     size: 156743019
     size_str: 149 MiB
     url: https://db-nds-shop.fr/games/Inazuma%20Eleven%20%28France%29.zip
-icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/inazumaeleven.png
-image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/inazumaeleven.png
+icon: https://db-nds-shop.fr/assets/images/icons/inazumaeleven.png
+image: https://db-nds-shop.fr/assets/images/icons/inazumaeleven.png
 image_length: 823
 layout: app
 qr:
-  Inazuma Eleven (France).nds: https://db-nds-shop.fr/assets/images/qr/inazuma-eleven-france-nds.png
+  Inazuma Eleven (France).nds: https://db-nds-shop.fr/qr/inazuma-eleven-france-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/inazumaeleven/inazumaeleven.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/inazumaeleven/inazumaeleven.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png
 stars: 0
 systems:
 - DS

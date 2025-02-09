@@ -9,17 +9,17 @@ downloads:
     size: 7620978
     size_str: 7 MiB
     url: https://db-nds-shop.fr/games/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.zip
-icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/cookingmama.png
-image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/cookingmama.png
+icon: https://db-nds-shop.fr/assets/images/icons/cookingmama.png
+image: https://db-nds-shop.fr/assets/images/icons/cookingmama.png
 image_length: 799
 layout: app
 qr:
-  Cooking Mama (Europe) (En,Fr,It).nds: https://db-nds-shop.fr/assets/images/qr/cooking-mama-europe-enfrit-nds.png
+  Cooking Mama (Europe) (En,Fr,It).nds: https://db-nds-shop.fr/qr/cooking-mama-europe-enfrit-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/cookingmama/cookingmama.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/cookingmama/cookingmama.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Cooking%20Mama%20(Europe)%20(En%2CFr%2CIt).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Cooking%20Mama%20(Europe)%20(En%2CFr%2CIt).nds.png
 stars: 0
 systems:
 - DS

@@ -13,20 +13,20 @@
 		}
 	},
     "screenshots": [{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/chronotrigger/chronotrigger.png",
+        "url": "https://db-nds-shop.fr/assets/images/screenshots/chronotrigger/chronotrigger.png",
         "description": "Game preview"
         },{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Chrono%20Trigger%20(Europe)%20(En%2CFr).nds.png",
+        "url": "https://db-nds-shop.fr/assets/images/boxart/Chrono%20Trigger%20(Europe)%20(En%2CFr).nds.png",
         "description": "Boxart"
     }],
-    "icon": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/chronotrigger.png",
+    "icon": "https://db-nds-shop.fr/assets/images/icons/chronotrigger.png",
     "version": "(Europe) (En,Fr)",
     "updated": "2024-08-10T19:42:58+02:00",
     "scripts": {
         "Chrono Trigger (Europe) (En,Fr).nds": [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Chrono%20Trigger%20(Europe)%20(En%2CFr).nds.png",
+                "file": "https://db-nds-shop.fr/assets/images/boxart/Chrono%20Trigger%20(Europe)%20(En%2CFr).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Chrono Trigger (Europe) (En,Fr).nds.png"
             },
             {
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Chrono%20Trigger%20(Europe)%20(En%2CFr).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Chrono%20Trigger%20(Europe)%20(En%2CFr).cia",
 				"output": "Chrono Trigger (Europe) (En,Fr).cia"
 			},
 			{

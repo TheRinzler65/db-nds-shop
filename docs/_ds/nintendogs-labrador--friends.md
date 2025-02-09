@@ -9,17 +9,17 @@ downloads:
     size: 25246107
     size_str: 24 MiB
     url: https://db-nds-shop.fr/games/Nintendogs%20Labrador%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
-icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/nintendongslabrador.png
-image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/nintendongslabrador.png
+icon: https://db-nds-shop.fr/assets/images/icons/nintendongslabrador.png
+image: https://db-nds-shop.fr/assets/images/icons/nintendongslabrador.png
 image_length: 859
 layout: app
 qr:
-  Nintendogs Labrador & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/nintendogs-labrador--friends-europe-enfrdeesit-nds.png
+  Nintendogs Labrador & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/nintendogs-labrador--friends-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/nintendogslabrador/nintendogslabrador.png
+  url: https://db-nds-shop.fr/assets/images/screenshots/nintendogslabrador/nintendogslabrador.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Nintendogs%20Labrador%20%26%20Friends%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://db-nds-shop.fr/assets/images/boxart/Nintendogs%20Labrador%20%26%20Friends%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

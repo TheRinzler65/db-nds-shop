@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/bombermanland2/bombermanland2.png",
+		"url": "https://db-nds-shop.fr/assets/images/screenshots/bombermanland2/bombermanland2.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+		"url": "https://db-nds-shop.fr/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland2.png",
+	"icon": "https://db-nds-shop.fr/assets/images/icons/bombermanland2.png",
 	"version": "(Europe) (En,Fr,De,Es,It)",
 	"updated": "2024-08-18T22:25:00+02:00",
 	"scripts": {
 		"Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+				"file": "https://db-nds-shop.fr/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds.png"
 			},
 			{
@@ -51,7 +51,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
+				"file": "https://db-nds-shop.fr/forwarder/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
 				"output": "/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).cia"
 			},
 			{
