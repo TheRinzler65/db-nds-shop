@@ -2,16 +2,11 @@
 author: Nintendo
 categories:
 - game
-color: '#9a5d7c'
-color_bg: '#804d67'
 downloads:
   Mario & Luigi Partners in Time (Europe) (En,Fr,De,Es,It).nds:
-    size: 41730359
-    size_str: 39 MiB
     url: https://db-nds-shop.fr/games/Mario%20%26%20Luigi%20Partners%20in%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/mario%26luigipartnersintime.png
 image: https://db-nds-shop.fr/assets/images/icons/mario%26luigipartnersintime.png
-image_length: 1274
 layout: app
 qr:
   Mario & Luigi Partners in Time (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/mario--luigi-partners-in-time-europe-enfrdeesit-nds.png

@@ -2,16 +2,11 @@
 author: Sega
 categories:
 - game
-color: '#6882c3'
-color_bg: '#445580'
 downloads:
   Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds:
-    size: 50885995
-    size_str: 48 MiB
     url: https://db-nds-shop.fr/games/Sonic%20Colours%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/soniccolours.png
 image: https://db-nds-shop.fr/assets/images/icons/soniccolours.png
-image_length: 1052
 layout: app
 qr:
   Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/sonic-colours-europe-enjafrdeesit-nds.png

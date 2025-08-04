@@ -2,16 +2,11 @@
 author: Nintendo
 categories:
 - game
-color: '#9f6c39'
-color_bg: '#80572e'
 downloads:
   Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds:
-    size: 22431342
-    size_str: 21 MiB
     url: https://db-nds-shop.fr/games/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/diddykongracing.png
 image: https://db-nds-shop.fr/assets/images/icons/diddykongracing.png
-image_length: 937
 layout: app
 qr:
   Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/diddy-kong-racing-ds-europe-enfrdeesit-nds.png

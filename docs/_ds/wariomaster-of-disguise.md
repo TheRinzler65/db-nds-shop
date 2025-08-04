@@ -2,16 +2,11 @@
 author: Nintendo
 categories:
 - game
-color: '#90675a'
-color_bg: '#805b50'
 downloads:
   Wario Master of Disguise (Europe) (En,Fr,De,Es,It).nds:
-    size: 42827709
-    size_str: 40 MiB
     url: https://db-nds-shop.fr/games/Wario%20Master%20of%20Disguise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/wariomasterofdisguise.png
 image: https://db-nds-shop.fr/assets/images/icons/wariomasterofdisguise.png
-image_length: 847
 layout: app
 qr:
   Wario Master of Disguise (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/wario-master-of-disguise-europe-enfrdeesit-nds.png

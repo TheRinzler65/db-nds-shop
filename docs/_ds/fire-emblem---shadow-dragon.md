@@ -2,14 +2,11 @@
 author: Nintendo
 categories:
 - game
-color: '#7a78bb'
-color_bg: '#535280'
 downloads:
   Fire Emblem Shadow Dragon (Europe) (En,Fr,De,Es,It).nds:
     url: https://db-nds-shop.fr/games/Fire%20EmblemShadow%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/shadowemblemdragon.png
 image: https://db-nds-shop.fr/assets/images/icons/shadowemblemdragon.png
-image_length: 508
 layout: app
 qr:
   Fire Emblem Shadow Dragon (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/fire-emblem-shadow-dragon-europe-enfrdeesit-nds.png

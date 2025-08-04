@@ -2,16 +2,11 @@
 author: Nintendo
 categories:
 - game
-color: '#819b61'
-color_bg: '#6a8050'
 downloads:
   Picross D (Europe) (En,Fr,De,Es,It).nds:
-    size: 25755026
-    size_str: 24 MiB
     url: https://db-nds-shop.fr/games//Picross%20D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/picross3d.png
 image: https://db-nds-shop.fr/assets/images/icons/picross3d.png
-image_length: 703
 layout: app
 qr:
   Picross D (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/picross-d-europe-enfrdeesit-nds.png

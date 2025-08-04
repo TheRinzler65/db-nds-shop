@@ -2,16 +2,11 @@
 author: Nintendo / GameFreak
 categories:
 - game
-color: '#63453f'
-color_bg: '#63453f'
 downloads:
   Pokemon Version Noire (France) (NDSi Enhanced).nds:
-    size: 110972911
-    size_str: 105 MiB
     url: https://db-nds-shop.fr/games/Pokemon%20Version%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/pokemonnoire.png
 image: https://db-nds-shop.fr/assets/images/icons/pokemonnoire.png
-image_length: 480
 layout: app
 qr:
   Pokemon Version Noire (France) (NDSi Enhanced).nds: https://db-nds-shop.fr/qr/pokemon-version-noire-france-ndsi-enhanced-nds.png
