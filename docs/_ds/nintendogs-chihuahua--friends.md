@@ -2,11 +2,16 @@
 author: Nintendo
 categories:
 - game
+color: '#a5afa6'
+color_bg: '#788079'
 downloads:
   Nintendogs Chihuahua & Friends (Europe) (En,Fr,De,Es,It).nds:
+    size: 25246107
+    size_str: 24 MiB
     url: https://db-nds-shop.fr/games/Nintendogs%20Chihuahua%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/nintendogschihuahua.png
 image: https://db-nds-shop.fr/assets/images/icons/nintendogschihuahua.png
+image_length: 813
 layout: app
 qr:
   Nintendogs Chihuahua & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/nintendogs-chihuahua--friends-europe-enfrdeesit-nds.png

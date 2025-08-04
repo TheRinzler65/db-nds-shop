@@ -2,11 +2,16 @@
 author: Nintendo / Level-5
 categories:
 - game
+color: '#996845'
+color_bg: '#805739'
 downloads:
   Inazuma Eleven 2 - Tempete de Glace (France) (France).nds:
+    size: 205802952
+    size_str: 196 MiB
     url: https://db-nds-shop.fr/games/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/inazumaeleventempetedeglace.png
 image: https://db-nds-shop.fr/assets/images/icons/inazumaeleventempetedeglace.png
+image_length: 822
 layout: app
 qr:
   Inazuma Eleven 2 - Tempete de Glace (France) (France).nds: https://db-nds-shop.fr/qr/inazuma-eleven-2---tempete-de-glace-france-france-nds.png

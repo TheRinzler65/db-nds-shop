@@ -2,11 +2,16 @@
 author: Level-5
 categories:
 - game
+color: '#8e7b63'
+color_bg: '#806e59'
 downloads:
   Professeur Layton et le Destin Perdu (France).nds:
+    size: 213959595
+    size_str: 204 MiB
     url: https://db-nds-shop.fr/games/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/professeurlaytonetledestinperdu.png
 image: https://db-nds-shop.fr/assets/images/icons/professeurlaytonetledestinperdu.png
+image_length: 460
 layout: app
 qr:
   Professeur Layton et le Destin Perdu (France).nds: https://db-nds-shop.fr/qr/professeur-layton-et-le-destin-perdu-france-nds.png

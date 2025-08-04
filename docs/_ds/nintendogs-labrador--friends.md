@@ -2,11 +2,16 @@
 author: Nintendo
 categories:
 - game
+color: '#a8a086'
+color_bg: '#807966'
 downloads:
   Nintendogs Labrador & Friends (Europe) (En,Fr,De,Es,It).nds:
+    size: 25246107
+    size_str: 24 MiB
     url: https://db-nds-shop.fr/games/Nintendogs%20Labrador%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/nintendongslabrador.png
 image: https://db-nds-shop.fr/assets/images/icons/nintendongslabrador.png
+image_length: 859
 layout: app
 qr:
   Nintendogs Labrador & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/nintendogs-labrador--friends-europe-enfrdeesit-nds.png

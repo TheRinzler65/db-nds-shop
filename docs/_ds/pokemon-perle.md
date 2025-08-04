@@ -2,11 +2,16 @@
 author: Nintendo / GameFreak
 categories:
 - game
+color: '#be768b'
+color_bg: '#804f5d'
 downloads:
   Pokemon Version Perle (France) (Rev ).nds:
+    size: 27827346
+    size_str: 26 MiB
     url: https://db-nds-shop.fr/games/Pokemon%20Version%20Perle%20%28France%29%20%28Rev%20%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/pokemonperle.png
 image: https://db-nds-shop.fr/assets/images/icons/pokemonperle.png
+image_length: 504
 layout: app
 qr:
   Pokemon Version Perle (France) (Rev ).nds: https://db-nds-shop.fr/qr/pokemon-version-perle-france-rev--nds.png

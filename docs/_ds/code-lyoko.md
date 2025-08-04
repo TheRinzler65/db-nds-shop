@@ -2,11 +2,16 @@
 author: The Game Factory
 categories:
 - game
+color: '#4f909f'
+color_bg: '#3f7380'
 downloads:
   Code Lyoko (Europe) (En,Fr,Es,It).nds:
+    size: 57454239
+    size_str: 54 MiB
     url: https://db-nds-shop.fr/games/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/codelyoko.png
 image: https://db-nds-shop.fr/assets/images/icons/codelyoko.png
+image_length: 938
 layout: app
 qr:
   Code Lyoko (Europe) (En,Fr,Es,It).nds: https://db-nds-shop.fr/qr/code-lyoko-europe-enfresit-nds.png

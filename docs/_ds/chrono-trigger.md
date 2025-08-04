@@ -2,11 +2,16 @@
 author: Square Enix
 categories:
 - game
+color: '#87533d'
+color_bg: '#804e3a'
 downloads:
   Chrono Trigger (Europe) (En,Fr).nds:
+    size: 63483465
+    size_str: 60 MiB
     url: https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).zip
 icon: https://db-nds-shop.fr/assets/images/icons/chronotrigger.png
 image: https://db-nds-shop.fr/assets/images/icons/chronotrigger.png
+image_length: 1109
 layout: app
 qr:
   Chrono Trigger (Europe) (En,Fr).nds: https://db-nds-shop.fr/qr/chrono-trigger-europe-enfr-nds.png

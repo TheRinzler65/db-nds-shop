@@ -2,11 +2,16 @@
 author: Rising Star Games
 categories:
 - game
+color: '#58aaad'
+color_bg: '#417d80'
 downloads:
   Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds:
+    size: 26003287
+    size_str: 24 MiB
     url: https://db-nds-shop.fr/games/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).zip
 icon: https://db-nds-shop.fr/assets/images/icons/bombermanland2.png
 image: https://db-nds-shop.fr/assets/images/icons/bombermanland2.png
+image_length: 714
 layout: app
 qr:
   Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/bomberman-land-touch-2-europe-enfrdeesit-nds.png

@@ -2,11 +2,16 @@
 author: Sensory Sweep Studios
 categories:
 - game
+color: '#36454f'
+color_bg: '#36454f'
 downloads:
   Jackass The Game DS (Europe) (En,Fr,De,Es,It).nds:
+    size: 78179453
+    size_str: 74 MiB
     url: https://db-nds-shop.fr/games/Jackass%20The%20Game%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/jackassthegameds.png
 image: https://db-nds-shop.fr/assets/images/icons/jackassthegameds.png
+image_length: 784
 layout: app
 qr:
   Jackass The Game DS (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/jackass-the-game-ds-europe-enfrdeesit-nds.png

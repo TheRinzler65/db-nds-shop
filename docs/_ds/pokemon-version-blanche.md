@@ -2,11 +2,16 @@
 author: Nintendo / GameFreak
 categories:
 - game
+color: '#bd9b93'
+color_bg: '#806963'
 downloads:
   Pokemon Version Blanche (France) (NDSi Enhanced).nds:
+    size: 110977480
+    size_str: 105 MiB
     url: https://db-nds-shop.fr/games/Pokemon%20Version%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/pokemonblanc.png
 image: https://db-nds-shop.fr/assets/images/icons/pokemonblanc.png
+image_length: 488
 layout: app
 qr:
   Pokemon Version Blanche (France) (NDSi Enhanced).nds: https://db-nds-shop.fr/qr/pokemon-version-blanche-france-ndsi-enhanced-nds.png

@@ -2,11 +2,16 @@
 author: Nintendo
 categories:
 - game
+color: '#a7795b'
+color_bg: '#805c45'
 downloads:
   Nintendogs Dachshund & Friends (Europe) (En,Fr,De,Es,It).nds:
+    size: 25244829
+    size_str: 24 MiB
     url: https://db-nds-shop.fr/games/Nintendogs%20Dachshund%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip
 icon: https://db-nds-shop.fr/assets/images/icons/nintendogsdaschund.png
 image: https://db-nds-shop.fr/assets/images/icons/nintendogsdaschund.png
+image_length: 966
 layout: app
 qr:
   Nintendogs Dachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/qr/nintendogs-dachshund--friends-europe-enfrdeesit-nds.png
