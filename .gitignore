@@ -1,7 +1,0 @@
-*__pycache__
-config.ini
-
-*temp/
-docs/fluxrss.php
-.env
-sent_games.txt
