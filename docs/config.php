@@ -1,23 +1,23 @@
 <?php
 
-defined( 'SITE_LOADED' ) or die( "You don't have access to this file." );
+defined('SITE_LOADED') or die("You don't have access to this file.");
 
-define( 'SITE_URL', 'https://db-nds-shop.fr/' );
-define( 'SITE_PATH', __DIR__ . "/" );
+define('SITE_URL', 'http://localhost/');
+define('SITE_PATH', __DIR__ . "/");
 
-define( 'GAME_DATA_FOLDER', '_ds/' );
+define('GAME_DATA_FOLDER', '_ds/');
 
-define( 'SITE_NAME', 'db-nds-shop' );
-define( 'SITE_TITLE_SEP', ' - ' );
-define( 'SITE_DEFAULT_IMAGE', "" );
+define('SITE_NAME', 'db-nds-shop');
+define('SITE_TITLE_SEP', ' | ');
+define('SITE_DEFAULT_IMAGE', "");
 
-$allowed_languages = [ 'fr', 'en' ];
+$allowed_languages = ['fr', 'en'];
 
 $pages = [
     'index.php' => [
-        'name' => 'Accueil | db-nds-shop',
-        'fr_name' => 'Accueil | db-nds-shop',
-        'en_name' => 'Home | db-nds-shop'
+        'name' => 'Accueil',
+        'fr_name' => 'Accueil',
+        'en_name' => 'Home'
     ],
     'game.php' => [
         'name' => 'Accueil',
@@ -25,20 +25,20 @@ $pages = [
         'en_name' => 'Eng',
     ],
     'game-list.php' => [
-        'name' => 'Liste des Jeux NDS | db-nds-shop',
-        'fr_name' => 'Liste des Jeux NDS | db-nds-shop',
-        'en_name' => 'NDS Games List | db-nds-shop' ,  
-    ],  
+        'name' => 'Liste des Jeux NDS',
+        'fr_name' => 'Liste des Jeux NDS',
+        'en_name' => 'NDS Games List',
+    ],
     'about.php' => [
-        'name' => 'À propos | db-nds-shop',
-        'fr_name' => 'À propos | db-nds-shop',
-        'en_name' => 'About | db-nds-shop',
+        'name' => 'À propos',
+        'fr_name' => 'À propos',
+        'en_name' => 'About',
     ],
     'rss.php' => [
-        'name' => 'RSS | db-nds-shop',
-        'fr_name' => 'RSS | db-nds-shop',
-        'en_name' => 'RSS | db-nds-shop',
-    ]    
+        'name' => 'RSS',
+        'fr_name' => 'RSS',
+        'en_name' => 'RSS',
+    ]
 ];
 
 $css = [

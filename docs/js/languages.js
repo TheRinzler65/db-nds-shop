@@ -28,3 +28,30 @@ function setLanguage(lang) {
     window.location.reload();
     
 }
+
+// dropdown pour changer la langue
+document.addEventListener("DOMContentLoaded", () => {
+  const langContainer = document.getElementById("lang-container");
+  const langToggle = document.getElementById("lang-toggle");
+  const langMenu = document.getElementById("lang-menu");
+
+  langToggle.addEventListener("click", (e) => {
+    e.stopPropagation();
+    langContainer.classList.toggle("open");
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!langContainer.contains(e.target)) {
+      langContainer.classList.remove("open");
+    }
+  });
+
+  document.querySelectorAll(".lang-link").forEach((link) => {
+    link.addEventListener("click", (e) => {
+      e.preventDefault();
+      const lang = link.dataset.lang;
+      setLanguage(lang); // Ta fonction PHP ou JS
+      langContainer.classList.remove("open");
+    });
+  });
+});

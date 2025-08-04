@@ -13,7 +13,6 @@ $lang = [
     'home' => 'Accueil',
     'game-list' => 'Liste des jeux',
     'about' => 'A Propos',
-    'languages' => 'Langues',
     'fr' => "Français",
     'en' => "English",
     
