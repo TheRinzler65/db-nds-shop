@@ -26,7 +26,7 @@
 		"Pokemon Version Argent SoulSilver (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://db-nds-shop.fr/assets/images/boxart/Pokemon%20Version%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.png",
+				"file": "https://db-nds-shop.fr/assets/images/boxart/Pokemon%20Version%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Pokemon Version Argent SoulSilver (France) [b].nds).png"
 			},
 			{

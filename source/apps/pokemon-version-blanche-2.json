@@ -8,8 +8,8 @@
 		"DS"
 	],
 	"downloads": {
-		"Pokemon Version Blanche (France) (NDSi Enhanced).nds": {
-			"url": "https://db-nds-shop.fr/games/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
+		"Pokemon Version Blanche 2 (France) (NDSi Enhanced).nds": {
+			"url": "https://db-nds-shop.fr/games/Pokemon%20Version%20Blanche%202%20(France)%20(NDSi%20Enhanced).zip"
 		}
 	},
 	"screenshots": [{
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://db-nds-shop.fr/games/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip",
+				"file": "https://db-nds-shop.fr/games/Pokemon%20Version%20Blanche%202%20(France)%20(NDSi%20Enhanced).zip",
 				"output": "/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
 			},
             {
