@@ -1,51 +1,49 @@
 <?php
-
 require_once 'site-load.php';
-
 import_header();
 
+$game_list = get_games(0, ['orderby' => 'updated']);
 ?>
 
-<?php
+<div class="game-list-container">
+    <h1 class="game-list-title"><?php t('games_list'); ?></h1>
 
-$game_list_updated = get_games( 0, [
-    'orderby' => 'updated'
-] );
+    <input type="text" id="searchInput" class="search-bar" placeholder="<?php t('search_game'); ?>">
 
-if( $game_list_updated != [] ){
-
-    ?>
-
-    <div class="games-grid">
-
-    <?php
-
-        foreach( $game_list_updated as $game ){
-
-            if( !( $game instanceof Game ) ) continue;
-
-            ?>
-
-            <a href="<?php echo build_game_url( $game->file_name ); ?>">
-                <div class="game-block">
-                    <img src="<?php $game->icon(); ?>" alt="<?php $game('title'); ?> Icon" class="game-icon">
-                    <h3><?php $game('title'); ?></h3>
-                    <p><strong><?php t('author'); ?></strong>&nbsp;<?php $game('author'); ?></p>
-                    <p><strong><?php t('version'); ?></strong>&nbsp;<?php $game('version'); ?></p>
-                    <p><strong><?php t('system'); ?></strong>&nbsp;<?php $game->systems(); ?></p>
-                    <p><strong><?php t('latest_update'); ?></strong>&nbsp;<?php echo date_formater( $game->update ); ?></p>
-                </div>
-            </a>
-
-            <?php
-        }
-
-    ?>
-
+    <div class="table-wrapper">
+        <table class="game-table" id="gameTable">
+            <thead>
+                <tr>
+                    <th><?php t('icon'); ?></th>
+                    <th onclick="sortTable(1)"><?php t('title'); ?> ⬍</th>
+                    <th onclick="sortTable(2)"><?php t('version'); ?> ⬍</th>
+                    <th onclick="sortTable(3)"><?php t('author'); ?> ⬍</th>
+                    <th onclick="sortTable(4)"><?php t('latest_update'); ?> ⬍</th>
+                    <th><?php t('categories'); ?></th>
+                    <th><?php t('system'); ?></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($game_list as $game):
+                    if (!($game instanceof Game)) continue;
+                ?>
+                    <tr>
+                        <td>
+                            <a href="<?= build_game_url($game->file_name); ?>">
+                                <img src="<?php $game->icon(); ?>" alt="<?php $game('title'); ?>" class="table-icon">
+                            </a>
+                        </td>
+                        <td><a href="<?= build_game_url($game->file_name); ?>"><?php $game('title'); ?></a></td>
+                        <td><?php $game('version'); ?></td>
+                        <td><?php $game('author'); ?></td>
+                        <td><?= format_game_date($game->update); ?></td>
+                        <td><?= implode(', ', $game->meta('categories') ?? []); ?></td>
+                        <td><?php $game->systems(); ?></td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
     </div>
+</div>
 
-    <?php
-
-}
-
-import_footer();
+<?php import_footer(); ?>

@@ -26,7 +26,7 @@ import_header();
 
     <!-- Block 1 -->
     <div class="block-game-details left">
-        <img class="icon" src="<?php $game->icon(); ?>" alt="<?php $game('title'); ?> Icon"'>
+        <img class="icon" src="<?php $game->icon(); ?>" alt="<?php $game('title'); ?> Icon">
         <p><strong style="color:<?php $game('color'); ?>;"><?php t('author'); ?></strong>&nbsp;<?php $game('author'); ?></p>
         <p><strong style="color:<?php $game('color'); ?>;"><?php t('version'); ?></strong>&nbsp;<?php $game('version'); ?></p>
         <p><strong style="color:<?php $game('color'); ?>;"><?php t('latest_update'); ?></strong>&nbsp;<?php echo date_formater($game->update); ?></p>

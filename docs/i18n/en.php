@@ -15,19 +15,23 @@ $lang = [
     'about' => 'About',
     'fr' => 'French',
     'en' => 'English',
-    
+
     // Game grid
-    'author' => 'Author:',
-    'system' => 'Systems:',
-    'version' => 'Version:',
-    'latest_update' => 'Latest Update:',
-    'categories' => 'Categories:',
-    'downloads' => 'Downloads:',
-    'qr_code' => 'QR Code:',
+    'icon' => 'Icon',
+    'title' => 'Title',
+    'author' => 'Author',
+    'system' => 'Systems',
+    'version' => 'Version',
+    'latest_update' => 'Latest Update',
+    'categories' => 'Categories',
+    'downloads' => 'Downloads',
+    'qr_code' => 'QR Code',
     'qr_code_for' => 'QR Code for %s',
     'qr_code_unavailable' => 'QR Code unavailable',
     'screenshots' => 'Screenshots',
-    'screenshot_alt' => 'Screenshot'
+    'screenshot_alt' => 'Screenshot',
+    'search_game' => "Search a NDS game",
+    'date_separator' => 'at ',
 ];
 
 define('T', $lang);

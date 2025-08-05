@@ -29,10 +29,28 @@ if( !$page || $page == [] || $page == "" ){ // If page not defined previously.
 
 }
 
-// Date.
-$date_format = new IntlDateFormatter(
-    'fr_FR',
-    IntlDateFormatter::LONG,
-    IntlDateFormatter::SHORT
-);
-$date_format->setPattern('d MMMM yyyy à HH:mm');
+function get_current_locale()
+{
+    return ($_SESSION['lang'] ?? 'fr') === 'fr' ? 'fr_FR' : 'en_US';
+}
+
+function format_game_date($datetime)
+{
+    $separator = t('date_separator', true);
+    $formatter = new IntlDateFormatter(
+        get_current_locale(),
+        IntlDateFormatter::LONG,
+        IntlDateFormatter::SHORT
+    );
+
+    if (is_numeric($datetime)) {
+        $datetimeObj = new DateTime();
+        $datetimeObj->setTimestamp((int)$datetime);
+    } else {
+        $datetimeObj = new DateTime($datetime);
+    }
+
+    $formatted = $formatter->format($datetimeObj);
+
+    return str_replace(' à ', " $separator ", $formatted);
+}

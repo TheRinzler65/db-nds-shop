@@ -29,7 +29,7 @@ function setLanguage(lang) {
     
 }
 
-// dropdown pour changer la langue
+// dropdown to change language
 document.addEventListener("DOMContentLoaded", () => {
   const langContainer = document.getElementById("lang-container");
   const langToggle = document.getElementById("lang-toggle");
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
     link.addEventListener("click", (e) => {
       e.preventDefault();
       const lang = link.dataset.lang;
-      setLanguage(lang); // Ta fonction PHP ou JS
+      setLanguage(lang);
       langContainer.classList.remove("open");
     });
   });

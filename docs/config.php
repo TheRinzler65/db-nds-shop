@@ -7,8 +7,8 @@ define('SITE_PATH', __DIR__ . "/");
 
 define('GAME_DATA_FOLDER', '_ds/');
 
-define('SITE_NAME', 'db-nds-shop');
-define('SITE_TITLE_SEP', ' | ');
+define('SITE_NAME', 'NDS-Shop');
+define('SITE_TITLE_SEP', ' - ');
 define('SITE_DEFAULT_IMAGE', "");
 
 $allowed_languages = ['fr', 'en'];
@@ -20,14 +20,14 @@ $pages = [
         'en_name' => 'Home'
     ],
     'game.php' => [
-        'name' => 'Accueil',
-        'fr_name' => 'Accueil',
-        'en_name' => 'Eng',
+        'name' => '',
+        'fr_name' => '',
+        'en_name' => '',
     ],
     'game-list.php' => [
-        'name' => 'Liste des Jeux NDS',
-        'fr_name' => 'Liste des Jeux NDS',
-        'en_name' => 'NDS Games List',
+        'name' => 'Liste des jeux',
+        'fr_name' => 'Liste des jeux',
+        'en_name' => 'Games List',
     ],
     'about.php' => [
         'name' => 'À propos',
@@ -48,5 +48,7 @@ $css = [
 
 $js = [
     SITE_URL . 'js/darkmode.js',
-    SITE_URL . 'js/languages.js'
+    SITE_URL . 'js/languages.js',
+    SITE_URL . 'js/script.js',
+    SITE_URL . 'js/gametable.js'
 ];
